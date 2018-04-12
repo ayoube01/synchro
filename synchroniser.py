@@ -1,3 +1,4 @@
+#synchroniser deux repertoires
 import os
 import sys
 import shutil
