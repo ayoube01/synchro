@@ -1,3 +1,4 @@
+#not finished yet
 import os
 import sys
 def CountOccurencesInText(word,text):
